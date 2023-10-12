@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: app-config-pod
+spec:
+  containers:
+    - name: busybox
+      image: busybox
+      ports:
+      - containerPort: 80
+      env:
+        - name: cm
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: mydata

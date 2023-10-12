@@ -1,0 +1,32 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "redhat.telemetry.enabled": true,
+    "yaml.schemas": {
+        "file:///c%3A/Users/Gaetan%20Pindjou/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    },
+    "workbench.startupEditor": "none",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": 1,
+    "remote.SSH.remotePlatform": {
+        "ec2-54-81-218-26.compute-1.amazonaws.com": "linux",
+        "ec2-18-215-169-31.compute-1.amazonaws.com": "linux",
+        "ec2-54-204-97-128.compute-1.amazonaws.com": "linux",
+        "ec2-3-80-34-119.compute-1.amazonaws.com": "linux",
+        "ec2-54-90-172-169.compute-1.amazonaws.com": "linux",
+        "ec2-54-92-206-26.compute-1.amazonaws.com": "linux",
+        "ec2-3-80-46-32.compute-1.amazonaws.com": "linux",
+        "ec2-54-166-230-19.compute-1.amazonaws.com": "linux",
+        "ec2-54-172-218-37.compute-1.amazonaws.com": "linux",
+        "ec2-34-229-6-10.compute-1.amazonaws.com": "linux",
+        "ec2-54-91-154-61.compute-1.amazonaws.com": "linux",
+        "23.239.27.113": "linux",
+        "198.58.105.227": "linux",
+        "66.228.53.224": "linux"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.editor.empty.hint": "hidden",
+    "git.openRepositoryInParentFolders": "never"
+}
